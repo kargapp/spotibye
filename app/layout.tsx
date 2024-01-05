@@ -10,7 +10,7 @@ const font_sans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Spotibye",
+  title: "SpotiBye",
   description: "Take control of your Spotify library!",
 };
 
