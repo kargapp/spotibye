@@ -23,8 +23,8 @@ import {
   PersonIcon,
   PlusIcon,
 } from "@radix-ui/react-icons";
-import LeftPanel from "./components/left-panel";
-import RightPanel from "./components/right-panel";
+import LeftPanel from "./components/server/left-panel";
+import RightPanel from "./components/server/right-panel";
 
 export default function Home() {
   return (
